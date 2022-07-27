@@ -1,5 +1,39 @@
+
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
 }
+
+header, figure {
+  text-align: center;
+}
+
+nav a { 
+  background-color: chartreuse;
+  padding: 10px;
+}
+
+figcaption {
+  font-size: smaller;
+  text-align: center;
+}
+
+p#featured-property {
+  width: 800px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+/*
+#details {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  float:left
+}
+*/
